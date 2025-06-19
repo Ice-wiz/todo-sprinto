@@ -1,0 +1,14 @@
+# Global ignore
+**/node_modules/
+**/dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Env
+.env
